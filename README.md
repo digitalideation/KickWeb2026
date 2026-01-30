@@ -17,8 +17,11 @@ Term: Spring 2026, HSLU<br/>
 Times: 9:15 – 11:40 und 12:50 – 15:10  <br/>
 Space: DI Open, Rotkreuz 
 
+# Briefings 
+* Deutsch
+* Englisch
 
-# Deliverables Overview
+# Overview
 
 | date | topics | materials for the day | 
 | --- | --- | --- |
@@ -26,10 +29,11 @@ Space: DI Open, Rotkreuz
 | 24.2. | Layout: Box Model, Display, Flexbox |---|
 | 3.3. | Layout: Grid, CSS Transformations |---|
 | 10.3. | Flexbox and Grid in Comparison, CSS Transitions |---|
+| <b> 16.3. </b> | <b> Deliver Layout, Design, Organisation for 2 Devices <br/> and HTML/CSS Prototype for 1 Device  </b>|---|
 | 17.3. | CSS Animations, Media Queries |---|
 | 24.3. | JavaScript |---|
 | 31.3. | Final Presentations |---|
-| 7.4. | Deliver Final Project, Documentation (no class) |---|
+| <b> 7.4. </b>| <b> Deliver Final Project, Documentation (no class) </b> |---|
 
 
 # Students
