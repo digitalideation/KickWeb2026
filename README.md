@@ -17,23 +17,54 @@ Term: Spring 2026, HSLU<br/>
 Times: 9:15 – 11:40 und 12:50 – 15:10  <br/>
 Space: DI Open, Rotkreuz 
 
-# Briefings 
-* Deutsch
-* Englisch
-
-# Overview
-
 | date | topics | materials for the day | 
 | --- | --- | --- |
-| 17.2. | Project Briefing, Basics HTML/CSS |---|
+| 17.2. | Project Briefing, Basics HTML/CSS |<a href="https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&ref_id=7062083">Illias</a>|
 | 24.2. | Layout: Box Model, Display, Flexbox |---|
 | 3.3. | Layout: Grid, CSS Transformations |---|
 | 10.3. | Flexbox and Grid in Comparison, CSS Transitions |---|
-| <b> 16.3. </b> | <b> Deliver Layout, Design, Organisation for 2 Devices <br/> and HTML/CSS Prototype for 1 Device  </b>|---|
+| <b> 16.3. </b> | <b> Sprint 1: Deliver Layout, Design, Organisation for 2 Devices <br/> and HTML/CSS Prototype for 1 Device  </b>|---|
 | 17.3. | CSS Animations, Media Queries |---|
 | 24.3. | JavaScript |---|
 | 31.3. | Final Presentations |---|
-| <b> 7.4. </b>| <b> Deliver Final Project, Documentation (no class) </b> |---|
+| <b> 7.4. </b>| <b> Sprint 2: Deliver Final Project, Documentation (no class) </b> |---|
+
+# Briefings 
+### Briefing kurz 
+Ihr erhaltet bestehendes <a href="https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&ref_id=7062083">Portfolio Material eines Architekturbüros</a> und übersetzt es in eine Webpräsentation. 
+Dabei gestaltet und programmiert ihr eine einzige HTML-Seite in zwei klar unterschiedlichen Zuständen: Mobile und Desktop oder Tablet hoch und Desktop. <br/>
+Ihr trefft Entscheidungen darüber, was sichtbar wird, was verschwindet und in welcher Reihenfolge gelesen wird. <br/>
+Mobile organisiert das Material linear und zeitlich, Desktop macht Beziehungen, Gleichzeitigkeit und räumliche Ordnung sichtbar. <br/>
+Ihr dürft radikal sein: Orientiert euch bei Bedarf an frühem Webdesign, das mit Layout, Raum und Struktur experimentiert hat – Haltung ist hier wichtiger als Konvention, Dienstleistung oder Perfektion. Eure Arbeit soll weniger eine Einzelansicht sein als ein System, das Ordnung schafft, Spiel zulässt und sich auf andere Portfolio-Projekte übertragen liesse. 
+
+### Briefing lang 
+* Deutsch [<a href="https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&cmdNode=z8:ob&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=7062489&origin=dropzone">LINK</a>]
+* Englisch [<a href="https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&cmdNode=z8:ob&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=7062855&origin=dropzone">LINK</a>]
+
+# Bewertung/Rating
+### Skala
+
+Bestanden / Nicht bestanden
+
+## Inhaltliche Kriterien
+
+1. Konzeptionelle und gestalterische Qualität der Organisation <br/>
+Wie klar, konsequent und nachvollziehbar wird das vorhandene Material geordnet, gewichtet und vermittelt?<br/>
+Werden Mobile und Desktop als unterschiedliche Perspektiven genutzt, und sind die getroffenen Entscheidungen gestalterisch begründet? 
+
+2. Umsetzung in HTML/CSS/(JS)<br/>
+Wie sauber, strukturiert und sparsam ist der Code umgesetzt?<br/>
+Sind HTML-Struktur und CSS-Anweisungen (allenfalls ergänzt mit JS) verständlich, robust und sinnvoll eingesetzt?
+
+3. Originalität und Haltung<br/>
+Inwiefern entwickelt die Arbeit eine eigenständige Haltung zur Aufgabe?<br/>
+Geht sie über konventionelle Portfolio- oder Weblösungen hinaus und nutzt das Web als gestalterisches Medium?
+
+## Formale Kriterien
+
+80% Anwesenheit <br/>
+Beitrag (Repetition oder kurzer Input zu HTML5)
+
 
 
 # Students
