@@ -1,0 +1,14 @@
+section{
+    height: 100vh;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
+    margin-bottom: 1rem;
+}
+
+h1{
+    font-weight: normal;
+    font-size: 3rem;
+}

@@ -20,14 +20,14 @@ Space: DI Open, Rotkreuz
 | date | topics | materials for the day | 
 | --- | --- | --- |
 | 17.2. | Project Briefing, Basics HTML/CSS |<a href="https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&ref_id=7062083">Illias</a>|
-| 24.2. | Layout: Box Model, Display, Flexbox |---|
-| 3.3. | Layout: Grid, CSS Transformations |---|
+| 24.2. | Styles: Fonts, Layout: Box Model, Display, Flexbox |---|
+| 3.3. | Morning: <b>Deliver Concept, Layout, Design, Organisation for 2 Devices </b> <br/>Layout: Grid, CSS Transformations  |-- |
 | 10.3. | Flexbox and Grid in Comparison, CSS Transitions |---|
-| <b> 16.3. </b> | <b> Sprint 1: Deliver Layout, Design, Organisation for 2 Devices <br/> and HTML/CSS Prototype for 1 Device  </b>|---|
+| <b> 16.3. </b> | <b> Deliver HTML/CSS Prototype for 1 Device  </b>|---|
 | 17.3. | CSS Animations, Media Queries |---|
 | 24.3. | JavaScript |---|
 | 31.3. | Final Presentations |---|
-| <b> 7.4. </b>| <b> Sprint 2: Deliver Final Project, Documentation (no class) </b> |---|
+| <b> 7.4. </b>| <b> Deliver Final Project, Documentation (no class) </b> |---|
 
 # Briefings 
 ### Briefing kurz 
