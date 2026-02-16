@@ -7,11 +7,12 @@
 
 # KickWeb - Spring 2026
 
-The wiki includes resources & course notes for students attending KickWeb Module. <br/>
-https://github.com/digitalideation/KickWeb2026/wiki <br/><br/>
-
 Instructor: Hanna Züllig<br/>
 Term: Spring 2026, HSLU<br/>
+
+The wiki includes resources & course notes for the individual days. <br/>
+https://github.com/digitalideation/KickWeb2026/wiki <br/><br/>
+
 
 # Course Schedule 
 Times: 9:15 – 11:40 und 12:50 – 15:10  <br/>
