@@ -7,3 +7,11 @@ section{
     min-height: 100vh;
     background-color: aliceblue;
 }
+
+.blue{
+    background-color: burlywood;
+}
+
+#last{
+    background-color: lightgreen;
+}

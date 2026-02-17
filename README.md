@@ -21,7 +21,7 @@ Space: DI Open, Rotkreuz
 | date | topics | materials for the day | 
 | --- | --- | --- |
 | 17.2. | Project Briefing, Basics HTML/CSS |<a href="https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&ref_id=7062083">Illias</a> <br/> <a href="https://github.com/digitalideation/KickWeb2026/wiki/V1_Basics">Basics HTML,CSS </a><br/> <a href="https://github.com/digitalideation/KickWeb2026/wiki/V1_Fonts">Fonts, Images </a>|
-| 24.2. | Styles: Fonts, Layout: Box Model, Display, Flexbox |---|
+| 24.2. | Styles: Fonts, Layout: Box Model, Display, <a href="https://github.com/digitalideation/KickWeb2026/wiki/V2_Flexbox">Flexbox </a>|---|
 | 3.3. | Morning: <b>Deliver Concept, Layout, Design, Organisation for 2 Devices </b> <br/>Layout: Grid, CSS Transformations  |-- |
 | 10.3. | Flexbox and Grid in Comparison, CSS Transitions |---|
 | <b> 16.3. </b> | <b> Deliver HTML/CSS Prototype for 1 Device  </b>|---|
