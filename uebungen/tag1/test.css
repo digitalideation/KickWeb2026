@@ -1,0 +1,9 @@
+h1{
+   color:blue;
+   font-weight: normal; 
+}
+
+section{
+    min-height: 100vh;
+    background-color: aliceblue;
+}
