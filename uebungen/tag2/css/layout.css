@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+@font-face {
+    font-family: "Larish";
+    src: url("larish_neue_semibold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Calibre";
+    src: url("Calibre-Regular.otf") format("opentype");
+}
+
+*{
+    /* reset*/
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgba(191, 209, 224, 0.8);
+}
+
+nav li {
+  /*font-family: "Roboto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100,
+    "GRAD" 0;
+    font-size: 2.1rem;
+*/
+font-family: "Larish";
+font-size: 2.1rem;
+    
+}
+h1{
+    margin: 0.7rem;
+    /*font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;*/
+   font-family: "Larish";
+    font-size: 1.3rem;
+    margin-left: 33vw;
+    padding-left: 10px;
+}
+p, figcaption{
+  /*   font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;*/
+   font-family: "Calibre";
+    font-size: 1.3rem;
+    max-width:600px;
+    margin-top: 0.5rem;;
+}
+
+figcaption{
+    flex-basis: content;
+}
+section {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+article {
+  padding: 10px;
+  display:flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  flex-grow: 0;
+  flex-basis: 400px;
+}
+
+article.grow{
+    flex-grow: 2;
+    margin-left: 33vw;
+    flex-basis: 600px;
+}
+article.shrink{
+    flex-shrink: 1;
+}
+article img{
+    width: 100%;
+    object-fit: cover;
+}
+
+
+header {
+  margin-bottom: 2rem;
+  position: sticky;
+  top:0px;
+}
+
+nav {
+  font-family: "Roboto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100,
+    "GRAD" 0;
+    
+}
+
+nav ul {
+ padding: 0;
+ margin: 0.7rem;
+}
+nav li {
+  list-style: none;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  
+}
+
+div.logo {
+  margin-left: 33vw;
+  
+}
+.poolLogo {
+  max-width: 300px;
+  padding: 10px;
+  
+}
