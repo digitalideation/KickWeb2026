@@ -22,13 +22,13 @@ Space: DI Open, Rotkreuz
 | --- | --- | --- |
 | 17.2. | Project Briefing, Basics HTML/CSS |<a href="https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&ref_id=7062083">Illias</a> <br/> <a href="https://github.com/digitalideation/KickWeb2026/wiki/V1_Basics">Basics HTML,CSS </a><br/> <a href="https://github.com/digitalideation/KickWeb2026/wiki/V1_Fonts">Fonts, Images </a>|
 | 24.2. | Styles: Fonts, Layout: Box Model, Display, Flexbox |<a href="https://github.com/digitalideation/KickWeb2026/wiki/V2_Flexbox">Flexbox </a>, <a href="https://github.com/digitalideation/KickWeb2026/wiki/V2_Document_Flow_BoxModell">Box Model, Display Property </a>|
-| 3.3. | Morning: <b>Deliver Concept, Layout, Design, Organisation for 2 Devices </b> <br/>Layout: Grid, CSS Transformations  |-- |
+| 3.3. | Morning: <b>Deliver Concept, Layout, Design, Organisation for 2 Devices </b> <br/>Layout: Grid, CSS Transformations  |<a href="https://github.com/digitalideation/KickWeb2026/wiki/V3_Grid">Layout: Grid</a>,  <a href="https://github.com/digitalideation/KickWeb2026/wiki/V3_Transform">CSS Transformationen</a>|
 | 10.3. | Flexbox and Grid in Comparison, CSS Transitions |---|
 | <b> 16.3. </b> | <b> Deliver HTML/CSS Prototype for Desktop Device  </b>|---|
 | 17.3. | CSS Animations, Media Queries |---|
 | 24.3. | JavaScript |---|
-| 31.3. | Final Presentations |---|
-| <b> 7.4. </b>| <b> Deliver Final Project, Documentation (no class) </b> |---|
+| 31.3. | Support and Self Study |---|
+| <b> 15.4. </b>| <b> Final Presentation </b> |---|
 
 # Briefings 
 ### Briefing kurz 
