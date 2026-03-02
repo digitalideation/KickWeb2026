@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "LinealVF" ;
+    src: url("fonts/LinealVF.woff2");
+}
+
+nav li{
+    font-family: "LinealVF" ;
+    list-style-type: none;
+    font-size: 2rem;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+main section{
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+   
+}
+
+article{
+     flex-basis: 700px;
+     
+}
+
+article:nth-of-type(2n){
+    margin-left:100px;
+}
+
+article img{
+    width: 100%;
+}

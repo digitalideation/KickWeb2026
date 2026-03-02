@@ -6,7 +6,7 @@
 }
 
 @font-face {
-    font-family: "Calibre";
+    font-family: "blabla";
     src: url("Calibre-Regular.otf") format("opentype");
 }
 
@@ -54,7 +54,7 @@ p, figcaption{
   font-style: normal;
   font-variation-settings:
     "wdth" 100;*/
-   font-family: "Calibre";
+   font-family: "blabla";
     font-size: 1.3rem;
     max-width:600px;
     margin-top: 0.5rem;;
