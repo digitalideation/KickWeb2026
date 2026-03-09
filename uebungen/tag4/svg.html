@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container {
+            width: 200px;
+            height: 220px;
+            position: relative;
+            top: 100px;
+            left:100px;
+        }
+        .cls-1.animation {
+            fill: none;
+            stroke: #1d1d1b;
+            stroke-miterlimit: 10;
+            transform-origin: 50px;
+            transform: rotate(45deg);
+
+            stroke-dashoffset: 314.2;
+
+            animation-name: drawing;
+            animation-duration: 3s;
+            animation-iteration-count: 1;
+            animation-timing-function: linear;
+            animation-fill-mode: forwards;
+    
+        }
+
+        @keyframes drawing {
+            from {
+                stroke-dashoffset: 314.2; /* circumference of the circle: 2 * pi * r = 2 * 3.14 * 50 = 314.2 */
+            }
+            to {
+                stroke-dashoffset: 78.5; /* a quarter of the circumference: 314.2 / 4 = 78.5 */
+            }
+        }
+        
+    </style>
+</head>
+<!-- https://hi-interactive.com/blog/mastering-css-svg-interaction/ -->
+<body>
+    <div class="container">
+    <?xml version="1.0" encoding="UTF-8"?>
+    <svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102 102" aspect-ratio="preserve">
+
+        <circle class="cls-1 animation" cx="50" cy="50" r="50" stroke-dasharray="314.2" />
+    </svg>
+    </div>
+</body>
+
+</html>

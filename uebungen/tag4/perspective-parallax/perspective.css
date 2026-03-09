@@ -1,0 +1,56 @@
+/* if you do not remove the margin, you will see a vertical scrollbar on the .parallax div */
+body {
+  margin: 0;
+}
+
+.noparallax{
+    height: 100vh;
+    background-color: thistle;
+}
+/* parallax "viewport" */
+.parallax {
+  height: 100vh;
+
+  overflow-x: hidden;
+  overflow-y: auto;
+
+  perspective: 1px;/* creates a 3D viewport and a perspective for the user the smaller the value, the stronger the parallax effect, but also the more extreme the distortion of the images */
+}
+
+.parallax-layer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.parallax-layer.layer1 {
+  transform: translateZ(0);/* distance: the closer to the viewer, the faster the image moves, so the parallax effect is stronger. The image will be distorted less than the images with a negative translateZ value, but it will still be distorted. The image will be distorted more than the images with a positive translateZ value. */
+
+  width: 100%;
+  height: 100rem;
+
+  background-color: rgba(255, 0, 0, 0.265);
+}
+
+.parallax-layer.layer2 {
+  transform: translateZ(-1px);
+  top: 10rem;
+
+  width: 100%;
+  height: 50rem;
+
+  background-color: rgba(0, 128, 0, 0.494);
+}
+
+.parallax-layer.layer3 {
+  transform: translateZ(-2px);
+  top: 20rem;
+
+  width: 100%;
+  height: 50rem;
+
+  background-color: rgba(0, 0, 255, 0.332);
+}
+

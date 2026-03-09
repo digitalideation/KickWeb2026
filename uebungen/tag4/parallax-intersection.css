@@ -1,0 +1,50 @@
+/*
+Source - https://stackoverflow.com/a/73736335
+Posted by Sean Doherty
+Retrieved 2026-03-09, License - CC BY-SA 4.0
+*/
+
+/* PARALLAX STYLING */
+
+.parallax {
+  height: 80vh;
+  overflow: hidden;
+}
+
+.parallax img {
+  width: 100%;
+}
+
+/* NICE TO HAVE */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+}
+
+h1 {
+  margin: 0;
+  color: white;
+}
+
+header {
+  height: 110vh;
+  background-color: steelblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section.spacer {
+  height: 110vh;
+  background-color: seagreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  height: 50vh;
+  background-color: firebrick;
+}
