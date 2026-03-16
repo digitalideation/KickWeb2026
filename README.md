@@ -25,7 +25,7 @@ Space: DI Open, Rotkreuz
 | 3.3. | Morning: <b>Deliver Concept, Layout, Design, Organisation for 2 Devices </b> <br/>Layout: Grid, CSS Transformations  |<a href="https://github.com/digitalideation/KickWeb2026/wiki/V3_Grid">Layout: Grid</a>,  <a href="https://github.com/digitalideation/KickWeb2026/wiki/V3_Transform">CSS Transformationen</a>|
 | 10.3. | Flexbox and Grid in Comparison, CSS Transitions , Specials (Parallax, Sticky) |<a href="https://github.com/digitalideation/KickWeb2026/wiki/V5_Transition">CSS Transitions </a>, <a href="https://github.com/digitalideation/KickWeb2026/wiki/V4_Specials">Specials (Parallax, Sticky) </a>|
 | <b> 16.3. </b> | <b> Deliver HTML/CSS Prototype for Desktop Device  </b>|---|
-| 17.3. | CSS Animations, Media Queries |---|
+| 17.3. | CSS Animations, Media Queries |<a href="https://github.com/digitalideation/KickWeb2026/wiki/V4_Animations">Animations</a>, <a href="https://github.com/digitalideation/KickWeb2026/wiki/V5_mediaqueries">Media Queries</a> |
 | 24.3. | JavaScript |---|
 | 31.3. | Support and Self Study |---|
 | <b> 15.4. </b>| <b> Final Presentation </b> |---|
