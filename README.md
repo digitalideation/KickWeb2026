@@ -27,7 +27,7 @@ Space: DI Open, Rotkreuz
 | <b> 16.3. </b> | <b> Deliver HTML/CSS Prototype for Desktop Device  </b>|---|
 | 17.3. | CSS Animations, Media Queries |<a href="https://github.com/digitalideation/KickWeb2026/wiki/V4_Animations">Animations</a>, <a href="https://github.com/digitalideation/KickWeb2026/wiki/V5_mediaqueries">Media Queries</a> |
 | 24.3. | JavaScript |---|
-| 31.3. | Support and Self Study |---|
+| 31.3. | Special Inputs, Variable Fonts, Support and Self Study |---|
 | <b> 15.4. </b>| <b> Final Presentation </b> |---|
 
 # Briefings 
@@ -71,54 +71,54 @@ Beitrag (Repetition oder kurzer Input zu HTML5)
 # Students
 ### Repositories and GitHub Pages
 * <b>Bächtold Nicolas </b><br/>
-Repo:  <br/>
-GitHub Pages: 
+Repo: https://github.com/kabaecht/stapferhaus_rep <br/>
+GitHub Pages: https://kabaecht.github.io/stapferhaus_rep/structure.html
 * <b>Buol Penelope</b><br/>
-Repo:  <br/>
-GitHub Pages: 
+Repo: https://github.com/Green-Pencil/Web_Pen <br/>
+GitHub Pages: https://green-pencil.github.io/Web_Pen/Website/website.html
 * <b>Gretener Sarah</b><br/>
-Repo:  <br/>
-GitHub Pages: 
+Repo: https://github.com/sarahgretener1/Portfolio_FHNW-Muttenz <br/>
+GitHub Pages: https://sarahgretener1.github.io/Portfolio_FHNW-Muttenz/
 * <b>Hassler Saenz Ralph</b><br/>
-Repo: <br/>
-GitHub Pages: 
+Repo: https://github.com/RalphodianCreator/WebDesignRalph01<br/>
+GitHub Pages: https://ralphodiancreator.github.io/WebDesignRalph01/Structure.html
 * <b>Heng Phariya</b><br/>
-Repo: <br/>
+Repo: https://github.com/phariyaheng/Modul_KIWEB<br/>
 GitHub Pages:  
 * <b>Lagos Alexis Kanetos</b><br/>
-Repo:  <br/>
-GitHub Pages: 
+Repo: https://github.com/alexiskanetoslagos/KIWEB-FS26 <br/>
+GitHub Pages: https://alexiskanetoslagos.github.io/KIWEB-FS26/
 * <b>Lettig Michelle</b><br/>
-Repo: <br/>
-GitHub Pages: 
+Repo: https://github.com/Michellemiche/KIWEB_MUTTENZ_Michelle <br/>
+GitHub Pages: https://michellemiche.github.io/KIWEB_MUTTENZ_Michelle/
 * <b>Martig Jann</b><br/>
-Repo:  <br/>
-GitHub Pages: 
+Repo: https://github.com/Jann-Martig/Muttenz_site <br/>
+GitHub Pages: https://jann-martig.github.io/Muttenz_site/
 * <b>Remensperger
 Michael</b><br/>
-Repo:  <br/>
+Repo: https://github.com/Karemens/-BUNG-Baddies/tree/main <br/>
 GitHub Pages: 
 * <b>Sandoval Rojas Lucia</b><br/>
-Repo: <br/>
-GitHub Pages: 
+Repo: https://github.com/LuciaFrisch/modul_webtech<br/>
+GitHub Pages: https://luciafrisch.github.io/modul_webtech/
 * <b>Schilter Mathias</b><br/>
-Repo:  <br/>
+Repo: https://github.com/Mathiiiias/Kiweb/tree/main <br/>
 GitHub Pages: 
 * <b>Schmid Salomé</b><br/>
-Repo:  <br/>
-GitHub Pages: 
+Repo: https://github.com/gitty-hubbie/modul_webtech <br/>
+GitHub Pages: https://gitty-hubbie.github.io/modul_webtech/
 * <b>Schnyder Tanja</b><br/>
-Repo: <br/>
-GitHub Pages: 
+Repo: https://github.com/YamiRaven/kiwebproject <br/>
+GitHub Pages: https://yamiraven.github.io/kiwebproject/
 * <b>Steiner Felix</b><br/>
-Repo: <br/>
-GitHub Pages: 
+Repo: https://github.com/felixsdev/26F.KIWEB_Pool-Architekten<br/>
+GitHub Pages: https://felixsdev.github.io/26F.KIWEB_Pool-Architekten/
 * <b>Stronchynska Zoia</b><br/>
-Repo: <br/>
-GitHub Pages: 
+Repo: https://github.com/zoyekaa/KIWEB_Stronchynska<br/>
+GitHub Pages: https://zoyekaa.github.io/KIWEB_Stronchynska/
 * <b>Trumm Benjamin</b><br/>
-Repo: <br/>
-GitHub Pages: 
+Repo: https://github.com/benjamin-trumm/KiWeb_Benjamin_Trumm/tree/main<br/>
+GitHub Pages: https://benjamin-trumm.github.io/KiWeb_Benjamin_Trumm/Website%20FHNW%20Muttenz%20-%20Final/
   
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
