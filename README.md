@@ -26,7 +26,7 @@ Space: DI Open, Rotkreuz
 | 10.3. | Flexbox and Grid in Comparison, CSS Transitions , Specials (Parallax, Sticky) |<a href="https://github.com/digitalideation/KickWeb2026/wiki/V5_Transition">CSS Transitions </a>, <a href="https://github.com/digitalideation/KickWeb2026/wiki/V4_Specials">Specials (Parallax, Sticky) </a>|
 | <b> 16.3. </b> | <b> Deliver HTML/CSS Prototype for Desktop Device  </b>|---|
 | 17.3. | CSS Animations, Media Queries |<a href="https://github.com/digitalideation/KickWeb2026/wiki/V4_Animations">Animations</a>, <a href="https://github.com/digitalideation/KickWeb2026/wiki/V5_mediaqueries">Media Queries</a> |
-| 24.3. | JavaScript |---|
+| 24.3. | JavaScript |<a href="https://github.com/digitalideation/KickWeb2026/wiki/V6_JavaScriptDOM">DOM</a>, <a href="https://github.com/digitalideation/KickWeb2026/wiki/V6_JavaScriptEvent">Events</a>, <a href="https://github.com/digitalideation/KickWeb2026/wiki/V6_JavaScriptDOMCSS">Zusammenspiel mit CSS</a>|
 | 31.3. | Special Inputs, Variable Fonts, Support and Self Study |---|
 | <b> 15.4. </b>| <b> Final Presentation </b> |---|
 
@@ -96,8 +96,8 @@ Repo: https://github.com/Jann-Martig/Muttenz_site <br/>
 GitHub Pages: https://jann-martig.github.io/Muttenz_site/
 * <b>Remensperger
 Michael</b><br/>
-Repo: https://github.com/Karemens/-BUNG-Baddies/tree/main <br/>
-GitHub Pages: 
+Repo: https://github.com/Karemens/websitekiweb.git<br/>
+GitHub Pages: https://karemens.github.io/websitekiweb/
 * <b>Sandoval Rojas Lucia</b><br/>
 Repo: https://github.com/LuciaFrisch/modul_webtech<br/>
 GitHub Pages: https://luciafrisch.github.io/modul_webtech/
