@@ -84,7 +84,7 @@ Repo: https://github.com/RalphodianCreator/WebDesignRalph01<br/>
 GitHub Pages: https://ralphodiancreator.github.io/WebDesignRalph01/Structure.html
 * <b>Heng Phariya</b><br/>
 Repo: https://github.com/phariyaheng/Modul_KIWEB<br/>
-GitHub Pages:  
+GitHub Pages:  https://phariyaheng.github.io/Modul_KIWEB/Leimbach.html
 * <b>Lagos Alexis Kanetos</b><br/>
 Repo: https://github.com/alexiskanetoslagos/KIWEB-FS26 <br/>
 GitHub Pages: https://alexiskanetoslagos.github.io/KIWEB-FS26/
