@@ -102,8 +102,8 @@ GitHub Pages: https://karemens.github.io/websitekiweb/
 Repo: https://github.com/LuciaFrisch/modul_webtech<br/>
 GitHub Pages: https://luciafrisch.github.io/modul_webtech/
 * <b>Schilter Mathias</b><br/>
-Repo: https://github.com/Mathiiiias/Kiweb/tree/main <br/>
-GitHub Pages: 
+Repo: https://github.com/Mathiiiias/Kiweb-main <br/>
+GitHub Pages: https://mathiiiias.github.io/Kiweb-main/
 * <b>Schmid Salomé</b><br/>
 Repo: https://github.com/gitty-hubbie/modul_webtech <br/>
 GitHub Pages: https://gitty-hubbie.github.io/modul_webtech/
