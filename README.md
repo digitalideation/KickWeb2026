@@ -118,7 +118,7 @@ Repo: https://github.com/zoyekaa/KIWEB_Stronchynska<br/>
 GitHub Pages: https://zoyekaa.github.io/KIWEB_Stronchynska/
 * <b>Trumm Benjamin</b><br/>
 Repo: https://github.com/benjamin-trumm/KiWeb_Benjamin_Trumm/tree/main<br/>
-GitHub Pages: https://benjamin-trumm.github.io/KiWeb_Benjamin_Trumm/Website%20FHNW%20Muttenz%20-%20Final/
+GitHub Pages: https://benjamin-trumm.github.io/KiWeb_Benjamin_Trumm/
   
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
