@@ -74,8 +74,8 @@ Beitrag (Repetition oder kurzer Input zu HTML5)
 Repo: https://github.com/kabaecht/stapferhaus_rep <br/>
 GitHub Pages: https://kabaecht.github.io/stapferhaus_rep/structure.html
 * <b>Buol Penelope</b><br/>
-Repo: https://github.com/Green-Pencil/Web_Pen <br/>
-GitHub Pages: https://green-pencil.github.io/Web_Pen/Website/website.html
+Repo: https://github.com/Green-Pencil/Web-Pen <br/>
+GitHub Pages: https://green-pencil.github.io/Web-Pen/Website/website.html
 * <b>Gretener Sarah</b><br/>
 Repo: https://github.com/sarahgretener1/Portfolio_FHNW-Muttenz <br/>
 GitHub Pages: https://sarahgretener1.github.io/Portfolio_FHNW-Muttenz/
